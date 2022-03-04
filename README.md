@@ -1,5 +1,12 @@
-<img src="https://img.mp.itc.cn/upload/20160318/88a2829352d743e88cc8680fa1c4fe54.jpg" width="100"/>
+<img src="https://p4.img.cctvpic.com/photoworkspace/2021/07/09/2021070916084961044.png" width="24"/> 社会主义核心价值观
+---
 
-![profile views](https://komarev.com/ghpvc/?username=AmazingMoon&color=orange)
-
-![stats](https://github-readme-stats.vercel.app/api?username=AmazingMoon&show_icons=true)
+**富强 民主 文明 和谐**
+<br/>
+**自由 平等 公正 法治**
+<br/>
+**爱国 敬业 诚信 友善**
+<br/>
+<br/>
+<br/>
+👨🏻‍💻 *为实现中国梦而努力奋斗！*
